@@ -1,0 +1,1 @@
+编译时请将resources1与resources2文件合并为resources文件夹，并放在C++头文件目录下
